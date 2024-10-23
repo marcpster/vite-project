@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "add: initial files"
+git branch -M main
+git remote add origin https://github.com/marcpster/vite-project
+git push -u origin main
